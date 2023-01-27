@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Pong.qml</file>
+        <file>Plate.qml</file>
+        <file>StartMenuBack.qml</file>
+        <file>StartMenu.qml</file>
+        <file>Ball.qml</file>
+        <file>Collision_funcs.js</file>
+        <file>WinMessage.qml</file>
+    </qresource>
+</RCC>
