@@ -1,0 +1,7 @@
+Injuries:(nick : part: info)
+user: Head:
+blabla
+user: Right hand:
+course_work
+user: Head:
+blablabla
