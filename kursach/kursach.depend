@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1624631475 source:c:\users\lovey\onedrive\Рабочий стол\прога\kursach\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<math.h>
+	"functions.hpp"
+
+1624787550 c:\users\lovey\onedrive\Рабочий стол\прога\kursach\functions.hpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1624634249 source:c:\users\lovey\onedrive\Рабочий стол\прога\kursach\functions.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<math.h>
+	"functions.hpp"
+
