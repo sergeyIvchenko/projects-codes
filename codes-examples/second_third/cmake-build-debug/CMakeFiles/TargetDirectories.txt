@@ -1,0 +1,3 @@
+D:/frilanci/codes-examples/second_third/cmake-build-debug/CMakeFiles/second_third.dir
+D:/frilanci/codes-examples/second_third/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/frilanci/codes-examples/second_third/cmake-build-debug/CMakeFiles/rebuild_cache.dir

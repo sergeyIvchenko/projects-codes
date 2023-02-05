@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/frilanci/codes-examples/second_third/main.cpp
+iostream
+-
+string
+-
+vector
+-
+bitset
+-
+windows.h
+-
+fstream
+-
+thread
+-
+
